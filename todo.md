@@ -1,0 +1,7 @@
+- make form submit
+- grab url
+- query server
+- "discover" images
+- display image urls
+- display images
+- download images
